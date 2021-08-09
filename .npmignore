@@ -1,0 +1,8 @@
+.idea
+test
+src
+coverage
+
+jest.config.json
+.gitignore
+tsconfig.json
